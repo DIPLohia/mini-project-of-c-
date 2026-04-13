@@ -1,0 +1,2 @@
+# mini-project-of-c-
+ MINI PROJECT: TELEPHONE CONTACT LIST (C)
